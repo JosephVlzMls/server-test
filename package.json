@@ -1,0 +1,7 @@
+{
+  "name": "server-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start:dev": "node src/index.js"
+  }
+}
